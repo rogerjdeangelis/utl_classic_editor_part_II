@@ -283,7 +283,7 @@ SAS  icon, autoexec and mouse mappings
     ```  How to map macros to the mouse and keyboard and remember actions to follow,  ```
     ```    ```
     ```  Utilities mapped to Logitech MX310 mouse  ```
-    ```    ```
+    ```  The price of the mx310 has gone from $15 to $150, a good substitute(with all the functionality) is the Logitech G203($29) ```
     ```      **************************************  ```
     ```     *                                       *  ```
     ```    *                                         *  ```
