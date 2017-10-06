@@ -1,5 +1,5 @@
 # utl_classic_editor_part_II
-SAS  icon, autoexec and mouse mappings
+SAS  icon, autoexec, sas classic editor and mouse mappings
 
     ```  /* T007870 Fast point and shoot programming(PART II the Fast Part)  ```
     ```    ```
